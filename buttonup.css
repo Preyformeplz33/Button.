@@ -1,27 +1,28 @@
 
 
 #search{
-    border: 1px purple;
+    border: 8px 8px purple;
     border-radius: 33%;
     margin: 22px;
     background-color:green;
+    color: orange;
     
 }
 
 #plus{
     border-radius:50%;
-    background-color: blue; 
+    background: blue; 
     margin: 13px;
     border: 1px green;
     width: 33px;
     height: 33px;
-
+color: yellow;
 }
 
 
 #create{
     margin: 33px;
-    box-shadow: black;
+    box-shadow:3px 3px black;
     color:grey;
     border-radius: 13px;
     border: yellow 2px;
