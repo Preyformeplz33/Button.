@@ -1,0 +1,30 @@
+
+
+#search{
+    border: 1px purple;
+    border-radius: 33%;
+    margin: 22px;
+    background-color:green;
+    
+}
+
+#plus{
+    border-radius:50%;
+    background-color: blue; 
+    margin: 13px;
+    border: 1px green;
+    width: 33px;
+    height: 33px;
+
+}
+
+
+#create{
+    margin: 33px;
+    box-shadow: black;
+    color:grey;
+    border-radius: 13px;
+    border: yellow 2px;
+    padding: 10px;
+    width: 100px;
+}
